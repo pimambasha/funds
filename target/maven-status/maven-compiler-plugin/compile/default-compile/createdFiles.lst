@@ -1,0 +1,7 @@
+ICICI\dao\Dao.class
+ICICI\dao\JobDao.class
+ICICI\business\JobBusiness.class
+ICICI\resource\JobResource.class
+ICICI\entity\Job.class
+ICICI\entity\Entity.class
+ICICI\JAXRSConfiguration.class
